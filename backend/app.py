@@ -168,7 +168,7 @@ def insert_dummy_data():
             "department": "Operations", "designation": "Senior Consultant - Admin"},
         # # {"name": "Suraj Kamble", "email": "suraj.kambale@riaadvisory.com",
         # #     "department": "Developer", "designation": "Consultant"},
-        {"name": "Marwin", "email": "marwin.ibanez@riaadvisory.com",
+        {"name": "Jhun", "email": "hesusito.pineda@riaadvisory.com",
             "department": "Developer", "designation": "Consultant"},
         {"name": "Marwin TMG", "email": "marwin.ibanez@tmgconsulting.com",
             "department": "TMG", "designation": "Consultant"},          
