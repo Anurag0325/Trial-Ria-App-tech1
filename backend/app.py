@@ -460,6 +460,8 @@ def insert_dummy_data():
             "department": "Internal IT and Cloud Ops", "designation": "Associate Consultant"},
         {"name": "Deepak Nichani", "email": "deepak.nichani@riaadvisory.com",
             "department": "Operations", "designation": "Senior Consultant - Admin"},
+        {"name": "Krishna Chaudhari GMAIL", "email": "krish.chaudhari2018@gmail.com",
+            "department": "Internal IT and Cloud Ops", "designation": "Associate Consultant"},
     ]
 
     # colleagues = [Colleagues(name=data['name'], email=data['email'],
@@ -1171,7 +1173,7 @@ emailed_candidates = []
 
 groups = [
     # {'start': 0, 'end': 376, 'config': 'Developer'},
-    {'start': 374, 'end': 376, 'config': 'Developer_1'},
+    {'start': 374, 'end': 378, 'config': 'Developer_1'},
     # {'start': 788, 'end': 802, 'config': 'Leadership'},
     # {'start': 802, 'end': 986, 'config': 'HR'},
     # {'start': 986, 'end': 1001, 'config': 'Account'}
